@@ -1,0 +1,25 @@
+.
+├── app.dart
+├── config
+│   └── routes.dart
+├── core
+│   ├── constants.dart
+│   ├── error
+│   │   └── faliure.dart
+│   ├── network
+│   │   └── network.dart
+│   ├── theme
+│   │   └── app_colors.dart
+│   └── utils
+├── data
+├── directory_structure.txt
+├── main.dart
+└── presentation
+    ├── bloc
+    │   ├── app_bloc.dart
+    │   ├── app_event.dart
+    │   └── app_state.dart
+    └── pages
+        └── home.dart
+
+11 directories, 12 files
